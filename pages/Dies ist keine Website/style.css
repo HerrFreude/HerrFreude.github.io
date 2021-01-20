@@ -12,7 +12,7 @@ body{
     max-width: 720px;
 max-height: 540px;
     margin:auto;
-    padding:100px 12px;
+    padding:40px 12px;
     box-sizing:border-box;
 }
 .lemon {
@@ -47,7 +47,7 @@ max-height: 540px;
 }
 .wrapper:hover #kein-text:after{
 	color:#111111;
-	content:'This is not a lime';
+	content:'Dies ist keine Limette';
 }
 .lemon:hover {
     transform: perspective(3000px) rotateY(10deg);
@@ -64,7 +64,24 @@ max-height: 540px;
 	font-size:32pt;
 	transition-duration:1s;
 }
-#kein-text:after{content:'This is not a lemon';}
+.speech{
+	width:100%;
+	text-align:center;
+}
+#scroll-button{
+	font-size:36pt;
+	text-decoration:none;
+	color:#95c704;
+}
+#Analyse{
+	padding-top:20px;
+	text-align:center;
+	margin-top:200px;
+	font-family: serif;
+	font-size:20pt;
+}
+
+#kein-text:after{content:'Dies ist keine Zitrone';}
 @media only screen and (max-width: 100px){
 
 }
