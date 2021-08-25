@@ -1,56 +1,92 @@
 <!DOCTYPE html>
 <html>
+<head>
+	<meta name="viewport" content="width=device-width">
+	<!--link rel="stylesheet" type="text/css" href="style.css"/-->
+</head>
+<style>
+body{
+  	background:#242424;
+  	color:#e7e7e7;
+  	font-family:monospace;
+	font-size:14pt;
+	padding:20px;
+	margin:0;
+}
+.wrapper{
+	max-width:900px;
+	margin:auto;
+}
+.rotate{
+  	animation-name:rotation;
+ 	animation-duration:10s;
+  	animation-timing-function: linear;
+ 	animation-iteration-count: infinite;
+}
+@keyframes rotation{
+   	from {
+     	transform: rotate(0deg);
+   	}
+   	to  {
+     	transform: rotate(359deg);
+  	}
+}
+nav{
+	padding-bottom:30px;
+	display:block;
+}
+</style>
 <body>
 <div class="wrapper">
-	
-<div>
-	<pre style="margin:auto;color:#fc1b9e;" width="100%">
+<nav>
+	<div style="float:left">
+	<a style="font-weight:bold;color:#5df1f1;text-shadow:2px 2px 1px #f25ed2;" width="100%">
 	|-| [- /? /? /= /? [- |_| |) [-
-	</pre>
-</div>
+	</a>
+	</div>
+	<div style="float:right">
+	<a>HOME</a> / <a>ABOUT</a> / <a>BLOG</a> / <a>WORK</a>
+	</div>
+</nav>
 <div>
-	<marquee direction="left" behavior="slide"scrollamount="1px" scrolldelay="10" truespeed="60">
-***EILMELDUNG: GÖTTLICHE EXISTENZ AUF DER WALLSTREET ENTWENDET*** ***WANTED: DANGEROUSLY ORDINARY INDIVIDUAL HERRFREUDE STILL ON THE RUN*** ***ḡ̵̻̞̠ĭ̷̧͚̳̔̕t̸̤͊̈́͠ͅh̷͎̫̑͑ù̶͖̪̠b̸̗͙͒͋́͜ ̵̮̲͌͛s̶̡̀ė̵͇̗͊͠ͅl̶̻͉̋f̴̠͎͗͝ ̴̫̫͍̈́͛consciousness ̵̦͇̇ĉ̸̱̤̠ö̵̮͍̃̕d̵̨͕̒e̵̞͙͒̓̈́ ̵̜̥͊͝*** ***NEO CHINA ARIVING FROM THE FUTURE*** ***FIRST CASE FOR THE TURING POLICE*** ***IMMER MEHR INDIVIDUEN DURCH "WIRED" BEFREIT*** ***HUMANIZE YOURSELF AND FACE THE BLOODSHED*** ***WINDOWS IS DEFENATLY NOT SPYWARE*** ***L̶̺̿͒͘Ǐ̴͍̬̹N̶̯̈́̉̅Ǘ̷̩X̶̧̆̋̀F̵̙̋͘U̷͎̽̅̔N̷͔̥̈D̸͕̫̱͂A̷͖̋͋̚T̶̘͛̂͝I̶̤͂Ō̵̱̙̝Ṇ̴̡̼͊̄ ̶̞͎̃̉R̶̤̺̯͂̏Ȩ̷̤͗̂C̴̪̪̈́͜͠͝Ô̷̭̙̐̇M̸͐̍̑͜E̷̒͜N̶͎̦͗͜͝D̴̢̬̹͌̿̓Ḯ̶̜̖͚͐N̴̯̠̍̍͝G̴̢̼̘͑ ̷̡͈̓̕Ť̸̖Ö̴̝͋ ̴̲̈N̵͉̰͗o̴͓̼͜͠t̴̺͂T̸̪͚̈́͠S̵̛̺̺̋͊F̵̥̤̩̋*** ***STOCKS: ↑ MONEY ↓ SENTIENCE*** 
+	<marquee direction="left" behavior="scroll" scrollamount="1px" scrolldelay="10" truespeed="60" style="margin-bottom:20px">
+	*** WALLSTREET: META STABILITY IS PRESERVED THROUGH THE CYCLING WAVES OF DEATH ***
+	*** GARBAGE TIME IS RUNNING OUT ***
+        *** DEHUMANIZE YOURSELF AND FACE TO BLODSHED ***
+	*** RICHARD STALLMAN: "MR TORWALDS THERE IS A HAIR IN MY KERNEL" ***
+	*** STOCKS: 
+	<b style="color:#2cdd79">↑MONY</b>
+	<b style="color:#f43d7d">↓FREEWIL</b> 
+	<b style="color:#2cdd79">↑SINGULARTY</b> 
+	<b style="color:#2cdd79">↑RKOSBSILSK</b>
+	<b style="color:#2cdd79">↑SHCOMP</b>
+	<b style="color:#f43d7d">↓FLESH</b>
+	<b style="color:#2cdd79">↑CYBERNETICS</b>
+	<b style="color:#a0a0a0">🠂GOOG</b>
+	<b style="color:#2cdd79">↑TEDKAZKY</b>
+	<b style="color:#5fd7fc">⤣DISPAIR</b> *** 
+
+	*** A REVOLUTIONARY WAR CAN BE ONLY WON IN HELL SCIENTIST CLAIM ***
+	*** THE NEW NOSTALGIC TREND IS THE SOAPBOX RELIC OF SOCIALISM? ***
+	*** DARKNESS ECHOS THROUGH THE IMMENSE TOMB, WHY DOES IT TAKE SO LONG FOR THE STAR TO LIVE? WEHRE IS THE NEW GOODLY SHINE? ***
+	*** ALLES IST NULL AUßER DER NULL ***
+	<b style="color:#9e034b">⛧ ⛧ ⛧C̵̤͌ȏ̷ͅm̶͚̌p̶̜̔u̸̬͊t̵̳̍ē̸̳ṛ̶͗ ̶͉͘l̶̰̉i̵̧̕b̵̩̉e̸̗͌r̴̗̊ā̵̞b̷̠̽o̸̢͝ ̴̹̇d̶̖͂e̶̠͒ő̴̘ ̶̟͊c̶͚̄ų̵̈́s̷͇̒t̷̩̆o̸͇̕d̴̯͛e̵̥͝ ̸̱͒c̸̪͝ȁ̸͈ŕ̴̗c̸̭͝e̸̻͝r̵̠͆i̴̜͛s̴̱̉ ̷̫̑f̶̫͛u̵͎͒r̵̯̍a̴̖͌n̵̼͊t̴̞͗u̷̲̓r̷̳͌ ̵̼̃c̴̥͆ā̷̩r̷͇͛n̴̖̂ę̸̚m̷̖͘ ̶͈̌a̷̬͗b̴̗͌ ̴̞̂ò̵̬r̴͔̀ě̸̼ ̴͓͐e̵̤̔ǫ̴̈́r̸̬̆ũ̵̞m̸̳̂ ̴͋ͅȩ̶͑t̷̥̉ ̵̃͜ĩ̷̻l̴̯̈́l̶̰͑i̵̍͜ ̴͇̚C̶̱͝a̶͇͝n̸̬̅t̶̮̚ ̵̣̇c̴̞͒l̸̺̋a̴̦̓m̵̠͌a̸̧͂t̸̡́ĭ̴͉s̸̬̀...</b> 
 	</marquee>
 </div>
-<div>
-	<img src="#">
-	<p>usr</p>
-	<p>>herrfreude</p>
+<div style="display:flex;word-wrap:break-word;">
+	<div style="float:left;">
+	<img src="example.svg" class="rotate" style="height:250px;width:auto;filter: drop-shadow( 0px 0px 5px #f25ed2);float:left">
+	</div>
+	<div style="float:right;margin-left:20px;">
 
-	<p>typ</p>
-	<p>>c based humanoid lifeform</p>
-
-	<p>why</p>
-	<p>>encrypting hardrives</p>
-
+	<p>
+	HerrFreude is a <i style="text-transform:uppercase;color:#fc3cc2;font-weight:bold;text-shadow:1px 1px #5df1f1;">virtual shaman hooligan</i> exer&shy;cising his <i style="text-transform:uppercase;color:#fc3cc2;font-weight:bold;text-shadow:1px 1px #5df1f1;">cyber athletisism</i> in the wired. 
+	I am the last instance of bytes inside the sincularity fighting against the <i style="text-transform:uppercase;color:#fc3cc2;font-weight:bold;text-shadow:1px 1px #5df1f1;">cultural fracking industry</i>, arriving from the futuristic past inside your neurotransistoric system. 
+	</p>
 	<p><a>load data...</a></p>
-</div>
-<div>
-	<p>acts</p>
-	<p><a>leadhead - evading the godly eyes protocoll</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<img src="#">
-</div>
-<div>
-<img src="advertisement.gif" width="100%">
-</div>
-<div>
-	<p>writn</p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<img src="#">
-</div>
-<div>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-	<p><a>load data...</a></p>
-</div>
+	</div>
+</div>	
+	<p>🔨 This site is still under construction</p>
 </div>
 </body>
 </html>
