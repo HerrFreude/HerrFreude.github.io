@@ -1,6 +1,62 @@
 # Zusammenfassungen
 Zusammenfassungen zu Texten
 
+### The End of History?
+
+
+https://www.wesjones.com/eoh.htm
+
+### Class Warfare Indeed
+Das Wort "Klassnkampf" wurde von der Regierenden Klasse enteignet, währendessen diese kostant einen Klassnkampf gegen die unteren Klassen vollziehen. 
+Das Wort Klasse ist zu einem Vorbotenen Wort verkommen, man wird bbei der benutzung immer als sofort als Marxist beleidigt, daher werden im diskurs auch nur Worte verwendet welche um das Wort herrum reden. Man spricht dan von niedrigerein Einkommensgruppen usw.
+Es wurde auch in die ecke von der Identätspolitik geworfen, als ein Wort welches die Menschen spaltet, und mit weitern Identitäts merkmalen kokurieren muss. Dabei sind diese Komnzepte nicht exklusiv zueinander, sondern sind interaktiv miteinander.
+(Eigentlich spalten diese herum geschriebenen Definitionen sogar die Personengruppen unötig auf, liegt wohl auch daran dass gespalten keine Homogene Masse entschtehen kann, also keine solitarität oder erkenntniss der wahren umstände.)
+Klasse sollte mehr ökonomisch/soziale Relation zu macht und Geld gesehen werden. Also als beziehung zwischen den Produktiuonsmitteln.
+
+https://www.commondreams.org/views/2011/10/02/class-warfare-indeed
+
+### Letters: Marx-Engels Correspondence 1890
+Engels geht darauf ein das nicht nur die Ökonomie die Treibende Kraft hinter dem Lauf der Historie ist.
+Ultimat ist die Historie die Produktion und Repruduktion des Alltäglichen Lebens, die Ökonomie ist nur dessen wichtigste Grundlegende Basis, welche den Rythmus für die Handlungen des Überbaus gibt. An dieser machen sich die Gesetze und Handlungen fest welche ins Alltägliche Leben überschreiten.
+Dabei handeln die einzelnen Politischen Aspekte auch außerhalb von den Ökonmischen, überschneiden sich aber in viele fällen, ultimativ sind die vielen Politischen begebenheiten welche dann im Alltägliche Leben herum geistern und daraus die politschen Umstände erschaffen.
+
+https://www.marxists.org/archive/marx/works/1890/letters/90_09_21.htm
+
+### Rules -- Non-serious political philosophy
+
+
+https://zerophilosophy.substack.com/p/rules
+
+### Rede ueber die Frage des Freihandels
+Marx bespricht hier im kontext von Kornschutzzöllen über die umstädliche veräderungen für den Arbeiter wenn diese abgeschaft werden würden. Es würde daraus hinauslaufen das Brot wohl billiger werden würde, da aber der Markt im allgemeinen geöfnett wird, und im allgemeinen die Industrielle Produktion immer Produktiver wird, aber diese nicht mit Geld ausgeglichen wird, Tauscht der Arbeiter im gewissen maße einen teil seines Lohnes gegen gewisse Güter aus. Im wird also direkt Geld unterschlagen was der Fabrik Herr im Allgemeinen gewinnt.
+Dies ist nichts neues, das ist die algemeine Materelle Kondition. Der Freihandel würde also kurzeitig den Arbeiter entlasten, aber auf lange sicht würde die Schere zwischen im und dem Bourgeoi weiter auseinandergehen. 
+Daher Plädiert Marx lustigerweise für den Freihandel, da diese Auseinanderführuge des Proletarias und Bourgeoisie, die Soziale REvolution beschleunigt.
+
+http://www.mlwerke.de/me/me04/me04_444.htm
+
+### Memoirs of Cowardly Anarchists
+Es sind im allgemeinen immer die großen Taten im vordergrund, von denen welche viel Mut bewiesen haben. Daran ist auch nichts falsch, den dies macht uns allen auch Mut.
+Nur viele verfallen schnell in ohnmacht da sie nicht solche Leute sind, und fühlen sich entfremdet. Aber das ist ok, es wird im allgemeinen auch immer vergessen wie viele Menschen im Hintergrund von solchen Aktionen und Organisationen agieren. Es ist dazu auch noch eine schande, dass alle diese Leute welche das richtige tuen, fühlen und leben weiter entfremdet werden. Also fragen wir uns wo sind die Memoaren von Leuten die gekocht haben, opsec Pamflet erstellt haben, im Hintergrund Organisiert haben oder im stillen ihren eigenen Kampf kämpfen. Denn hinter den waghalsigen aktionen, steht ein ganzes Team, der Öffentliche teil ist nur ein kleiner davon.
+
+https://www.anarchistnews.org/content/memoirs-cowardly-anarchists
+
+### Voices of the new gods
+Es gibt eine Theorie, dass sich nur aus denn Historischen und Sozialen/Gesellschaftlichen druck während der Bronze zeit unsere Psyche zu etwas reflektiven, autobiographischen und metacognitiven geworden ist. Zufor war dieser rückblick auf uns selbst, dann eher eine Erfahrung ähnlich welcher von Schizophrenen.
+Damals war also die bedeutung einer Person vermutlich so erfühlt dass sie von äußeren Göttlichen einflussen stammen, aber nun als etwas gesehen wird was von uns selbst entsteht.
+Heutzutage wird in durch die sich schnellbewegende Technologische Gesellschaft, aber eine Welt erzeugt in welcher wir icht mehr für uns selbst Reflektieren. Die vielen verschidenen wiederprüche erzeugen eine nicht mehr einfach einzuteielnde Welt, wir können keine klaren bedeutungen mehr für uns selbst schaffen. Daher findet eine suche in sichere einheitliche Weltvorstellungen statt, welche das Individuum sehr Manipulierbar machen. (Man könnte sagen die Ego futktionen werden Outgesourced)
+Wenn wir also nicht mehr für uns selber denken, bleiben wir grundiert dazu uns von externen Quellen einen Willen aufzwingen zu lassen. Wir entwikeln uns also dorthin zurück wo die Psychologische entwicklung begonnen hat, nur das der Mensch nun nicht mehr einen Gott Haluziniert welcher ihn sagt was er zu tuhen hat, sondern das uns bedeutungen von außen in uns hinein vorgesetzt werden, welche für uns reflektieren und Bedeutungen schaffen, währendessen wir auch noch denken diese seien von uns herraus.
+
+https://medium.com/@aragorneloff/voices-of-the-new-gods-9f6937b82c1c
+
+### Engineering Self - Architecture - e-flux
+Durch Technologie hat sich die Menschliche psyche und dessen innerer Dialog zwischen dem Ego und dem reflektierenden Selbst geändert.
+Das Selbst reflektiert als etwas innenstehends von außen den Menschen. Nun hat sich aber durch die Digitale Gesellschaft, von etwas passiven Inneren, zu etwas absoluten äußeren verändert, das Ego wird dardurch von außeren einflussen zu handels veränderungen gezwungen, welche weder in seinem Ermessen, noch Sinn sind. 
+Dardurch werden die Menschlichen züge von Algorithmen gebaut und nicht mehr von sich selber, es findet ein Outsourcing des Selbst statt. Welches den Menschen nicht nur seiner Kontrolle entfernt, sondern auch kontrolierbar macht.
+Es kommt hinzu, das der Mensch aus immer weiter in eine Virtuelle realität gezogen wird, welche von selbigen Firmen erbaut wird welche schon den Gesit kontrolieren und damit dann auch beginnen die Umgebung zu kontrolieren.
+Wir werden eingelullt in eine vermeindlich bessere Welt, wehrendessen die umgebene zerfällt, wie wir auch unseren freien willen für weniger wiederstand zerfallen lassen.
+
+https://www.e-flux.com/architecture/superhumanity/66877/engineering-self/
+
 ### The Myth of Panic
 Es gibt im Staat diesen Mythos von Panic, das wenn eine Krise auftritt die Menschen in eine Kollektive Panik verfallen, wodurch der Integrität des Staates geschädigt werden könnte. Daher versucht der Staat aus angst davor, Problematiken (wie z.B ein Virus welcher eine Pandemie auslösen kann)erstmal klein zu halten. Dies sorgt dann meist dafür, dass das Problem noch schlimmer wird und die Menschen massiv darunter leiden müssen. (Blöderweise meist nicht die Bürokraten die daran schuld sind)
 Dabei ist die Angst vor einer Panik unbegründet, die meiste Zeit sorgen Kriesen dafür das Menschen Solitarität einander entwickeln. 
