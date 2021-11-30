@@ -53,4 +53,37 @@ Von: Steven Shavairo
 
 https://manifold.umn.edu/read/54023bc6-0a45-4a51-9fc3-186e9e512a61/section/1b09b41b-002e-4b2d-ade0-b7ee76e5e9cc
 
+## Accelerationist Aesthetics
+von: Steven Shavairo
+* Ästhetik ist das einzige was nicht auf die politische Ökonomie heruntergebrochen werden kann.
+* Ästhetik wir zuerst Philosophie.
+* Ästhetik ist nie essentiell, aber genau das macht es niemals auf dies reduzierbar.
+* Ästhetik ist etwas was nur dem eigenen begehren dient, ohne weitere Motive.
+* Kunst befreit nicht von den Weltlichen bedenken, die politische Ökonomie steht meistens im weg der Ästhetik.
+* Kunst unter dem Kapitalismuss bietet uns am besten Eskapismus, aber keinen wirklichen Ausweg.
+* Ästhetischeurteile sind außerhalb von kognitiven Urteilsvermögen, sie basieren auf keinen Fakt.
+* Ästhetischeerfahrung findet nur in der Kognitivität statt.
+* Der Kapitalismuss subsumiert die Arbeit, sie wird also direkt unter kapitalistischen Regeln organisiert.
+* Weiter wurden Arbeit, Subjektivität und das Soziale Leben unter dem Kapital zusammengefasst. (Wir konsomieren und Arbeiten selbst wenn wir schlafen) 
+* Sie stehen nicht mehr außerhalb dem Kapital, sie sind Funktionen dessen.
+* Der mensch wird wird zum Kapitalbestand, welcher Profitabel investiert werden muss.
+* Alles wird Teil der ökonomischen Logik, welches in Geld oder einem äquivalent gemessen wird.
+* Neoliberalismuss bietet die Mechanismen um die menschlichen Aktionen zu berechnen und diese dann zu leiten.
+* Reale Subsumierung lässt kein Teil des Lebens un Kolonialisiert.
+* Ästhetische Produktion wurde in die Rohstoffpruduktion integriert. Die Ökonomie versucht immer mehr frische (romanhaftige) güter zu Produzieren und mehr Ästhetisch zu innovieren.
+* Alles ist im Kapitalismus ästhetisiert, alle Werte werden zu ästhetischen Werten.
+* Die Reale Subsumierung schaft eine möglichkeit wie der Akzelerationismus zu einer ästhetischen Strategie wird.
+* In der Moderne war Kunst nur die überschreitung bestimmter Taboos (bourgoise good taste), welche dann als subversiv angsehen wurden.
+* Im Neoliberalismus wird die überschreitung Normal.
+* Jeder "überschreitende" Akt schaft einen neuen Markt, welchen sich das Kapital aneignen kann.
+* Das neolierale Subjekt hat einen unstillbaren durst für mehr und mehr originelle Unterschide.
+* Die Subsumierung sorgt dafür das es kein Leben mehr gibt, nichts was außerhalb der Macht steht.
+* Um ein Radikales äußeres zu erschaffen muss die akzelerationistische Kunst immer immanent sein und sine Intensitäten an Ort und Stelle verändern.
+* Neoliberalismus lockt uns mit einer freien Lebensperspektive, währendessen es uns und die Welt Privatisiert und enteignet. 
+* Problem mit dem Akzelerationismus als politische Strategie liegt darin, dass jeder bereits einer ist.
+* Als ästhetisch Strategie sollten die kapitalistischen Grauen, bis an ein Maximum geführt werden, so dass wir vielleicht mit erleichterung sagen können das wir nun am boden sind.
+* Manche solcher ekel aufzeigenden Temporärer Produkte werden dank aufgeklärter Zynismus Lustig angesehen, nicht als etwas mit welchen man den Neoliberalismus überwinden kann.
+* Sie bieten als excess keinen Weg der negation, aber eine möglichkeit unser altägliches Leben zu übermalen.
+* Ästhetischer Akzelerationismuss zeigt uns die Zukunft auf in welchen wir nichts mehr ändern können und ohne den Gedanken es zu tuen. Es zeigt den Kapitalistische Realismuss in vollem effekt.
 
+https://manifold.umn.edu/read/no-speed-limit/section/a6117032-0897-4437-8c15-16c9ea1469f2
