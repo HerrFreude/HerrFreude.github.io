@@ -8,6 +8,9 @@ Die CCRU war ein Platz welchem sich viel mit Experementellen ideen zu Themen wie
 
 Dies soll nun für mich eine Studie dieser Ideen werden, vom Akzelerationismus zum Numogramm, mit der Hoffnung das die Zeit Lemuren bereit sind sich selber für die Menscheit zu Opfern um die ewige Spirale der kapitalistischen Singularität zu beenden.
 
+# Landian/ACC
+
+# Left/ACC
 ## Introduction to Accelerationism
 Von: Steven Shavairo
 * Der Kapitalismuss muss durchlebt werden um ihn zu überwiden, nur wenn er komplett an den Rande seiner existenz ausgewrungen ist, kann aus dieser absurdität etwas neues entstehen.
@@ -87,3 +90,29 @@ von: Steven Shavairo
 * Ästhetischer Akzelerationismuss zeigt uns die Zukunft auf in welchen wir nichts mehr ändern können und ohne den Gedanken es zu tuen. Es zeigt den Kapitalistische Realismuss in vollem effekt.
 
 https://manifold.umn.edu/read/no-speed-limit/section/a6117032-0897-4437-8c15-16c9ea1469f2
+
+## Parasites on the Body of Capital
+von: Steven SHavairo
+* Banjamin Noys der Namensgeber des Akzelrationismus, defieniert diesen als die Politik des schlimmsten, wenn der Kapiatalismus sein eigener untergang ist, ist das schlimmere das bessere.
+* Kapitalisitisches "revolutionieren", revolutioniert auch Soziale beziehungen und unser Selbstverständnis.
+* Nach Marx sind die befreienden Aspekte der sich konstant revolutionierenden Produktion (auch Wissenschaft gehört dazu), sind nicht von der erschaffung dessen Elend trennbar.
+* Marx meint die Wiedersprüche im Kapitalismus werden zu dessen fall führen. Was wie die Gegenwart zeigt nicht eingetreten ist.
+* Deleuze und Guattrai sagten einmal: Noch niemand ist je an einem Wiederspruch gestorben.
+* Die sich vergrößernden kapitalistischen Wiedersprüche haben diesen nur mehr gestärkt und ermächtigt.
+* Marx: Die radikale Zerstörung des Kapitals sind bedingungen für seinen erhalt.
+* Kapitalismus kann nicht negiert (Negierung der Negierung) werden, da es schon so viel Negativität gegen sich erhebt, das man unmöglich ein ähnliches maß gegen es erheben könnte.
+* Kapitalismus kreiert überfluss, aber muss konstant diesen in aufgezwugene Knappheit umwandeln.
+* Wenn die Knappheit einmal überzwungen ist fällt der kompetitive Motor des Kapitalismus, daher muss es eine eigenst erzeugte geben.
+* Akzelerationismus ist eine antwort auf dieses dilemma, es fängt damit an das der Kapitalismus zum ersten mal eine Welt erschaffen hat in welcher universeller Wohlstand ist zumindest denkbar ist.
+* Ein möglicher schritt oder Modell für eine post-kapitalisitische Welt ist vielleicht Oscar Wildes Ästhetizismus. 
+* Ästhetische Selbskultivierung ist eine absurdität in der heutigen Neoliberalen Welt in welcher nur die starken überleben. Es braucht ein Klima der Freizeit, welches es im Neoliberalismus nicht gibt.
+* Selbstkultivierung ist ein reflektierender blick in soch selbst, also das genaue gegen teil von Selbstbranding, wo man sich außen stilisiert um sich zu vermarkten.
+* Sie steht auch im wiederspruch mit unserer moderner und postmoderner ansicht auf begehren. Sie akzeptiert gehrne die Temporäre befriedigung, als das sie sich konstant im ständigen unerfüllten verlangennsuhlt.
+* “Less than All cannot satisfy Man”
+* Keynes:“We have been trained too long to strive and not to enjoy.”
+* Neoliberalismus träumt davon alles in einen Markt zu verwandeln, doch Keyns meint wir werden nur ein gutes Leben leben, wen wir frei von diesem druck sind.
+* Classische Ökonomie nimmt an das es unendliche begehren gibt, aber nur limitierte Resourcen. 
+* Wir sollten nicht mit weniger leben, sondern die geschenke der unendlich gebenden Sonne weiter verteilen.
+* Um den Parasieten zu besigen, muss man ein Parasiet im Parasieten werden, eine parasitäre Inversion.
+
+https://manifold.umn.edu/read/no-speed-limit/section/6166337c-2f8a-4fa2-b215-b83838ae099a
