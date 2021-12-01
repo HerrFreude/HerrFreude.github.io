@@ -8,7 +8,35 @@ Die CCRU war ein Platz welchem sich viel mit Experementellen ideen zu Themen wie
 
 Dies soll nun für mich eine Studie dieser Ideen werden, vom Akzelerationismus zum Numogramm, mit der Hoffnung das die Zeit Lemuren bereit sind sich selber für die Menscheit zu Opfern um die ewige Spirale der kapitalistischen Singularität zu beenden.
 
-# Landian/ACC
+# Generelles
+## A Quick-and-Dirty Introduction to Accelerationism
+von: Nick Land
+* Akzeleration koherent zu verstehen ist schwehr, weil sich die Realität konstant bewegt und verändert.
+* Es ist ei Horizont der immer näher kommt, und derAkzelerationismus meint das wir bald keine Zeit mehr zum überdenken haben, wenn wir sie nicht schon verloren haben.
+* Irgend etwas zutuen braucht zu lange, daher passieren immer mehr Dinge einfach so.
+* Es geht um Kontrolle, Negatives feedback staplisiert den Prozess, dadurch dass es dessn Drift koregiert. 
+* Deterritorialisierung ist das einzige mit welchem sich der Akzelerationismuss befasst.
+* Im Kapitalismuss gibt es ein Positives feedback zwischen Kommerzialisierung und Industrialisierung.
+* Der Prozess wird ummer autonomer.
+* Es appelliert zu nichts außer sich selber.
+* Es wächst um zu wachsen.
+* Der Prozess soll nicht kritisiert werden, er ist die Kritik.
+* Es gibt kein unterschied zwischen der Zerstörung des Kapitals und dessen Verschärfung.
+* Kapital ist nichts anderes als der sich beschleunigende soziale Faktor.
+* Alles was etwas tut füttern den Prozess ud ist intrinsisch Teil des Kapitals.
+* Akzelerationismus geht niergendwo hin außer tiefer in sich selber.
+* Irgendwann werden auch Menschen dies als Problem sehen, dann etwas verändern wollen und Akzelerationisten werden sagen:"endlich sagst du es, villeicht solten wir mal anfangen".
+* Aber am ende wird nur der Prozess lachen.
+
+https://jacobitemag.com/2017/05/25/a-quick-and-dirty-introduction-to-accelerationism/
+
+## Hyperstition: An Introduction
+von: Nick Land
+* Hyperstition ist eine Positive Rückkopplung mit Kultur als Komponenten.
+* Sie ist eine Technowissenschaftliche selbst erfüllende Prophezeiung.
+* Aberglauben sind falsche überzeugungen, aber Hyperstition sind ideen welche kausal Funktionieren um ihre eigene Realität herbei zu führen.
+
+https://www.orphandriftarchive.com/articles/hyperstition-an-introduction/
 
 # Left/ACC
 ## Introduction to Accelerationism
