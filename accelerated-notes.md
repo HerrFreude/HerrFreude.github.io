@@ -38,6 +38,57 @@ von: Nick Land
 
 https://www.orphandriftarchive.com/articles/hyperstition-an-introduction/
 
+## Hyperstition
+von: Delphi Carstens
+* Zusammensetzung aus den Worten "hyper" und "superstitun(Aberglaube)", also eine art aufgedrehter Aberglaube.
+* (Villeicht auch am besten Hyper-erscheinungen)
+* Es sind erfolgreiche ideen im bereich der Kultur.
+* Ähnlich wie Richard Dawkins konzept von Memes, nur das diese direkten einfluss auf die Kulturelle Evolution nehmen.
+* Sie beschreiben primär die Mechanismen des apokalyptischen Postmodernismus.
+* Sie funktionieren wie magische Siegel, welche wenn sie einmal in der Kultur sind apokalyptische positive Rückkopplungszyklen antreiben.
+* Nicht nur die Ideen selber sind Hyperstitions, aber auch das Trauma und die Angst welche sie erschaffen werden teil dessen Antriebes.
+* Es geht nicht um "war, falsch" Fragen, sondern darum Fiktion wirklichkeit zu machen.
+* Ähnlicher zum Modernen Phänomen des "Hype".
+* Hype lässt dinge passieren und nutzt den glauben als kraft.
+* "Nur weil es jetzt nicht real ist, heißt es nicht das Es nicht real wird. Und wenn es einmal real ist, war es das schon immer."
+* "Illusionen – wenn die Menschen an sie glauben – verändern den Lauf der Geschichte." - Felipe Fernández-Armesto.
+* Verbindung zu ideen der Schizoanalyse, welche ideen als komplexe vorgänge welche sich konstant ändern ansieht.
+* Hyperstitions gehen aus dem linearen Narrative hinnaus.
+* Sie kreieren eine Welt außer kontrolle.
+* Dies ist genau die aufgebe eines Hyperstitionalen Kypernetikers, welcher den Kreislauf schließen soll in welcher die Wellen erkennt, welche einfluss von der Zukunft auf die Vergangenheit nehmen.
+* Hyperstitions Signalisieren das wiederkehren des monströsen Anderen in der Kulturellen Arena.
+* Geschichte wird von Chthonischen göttern beherrst, welche uns am ende der Historie erwarten.
+
+https://www.orphandriftarchive.com/articles/hyperstition/
+
+## Teleoplexy: Notes on Acceleration
+von: Nick Land
+1. 
+
+## Darwin Among the Machines
+von: Samuel Butler, 1863
+* Mechanische dinge Leben wie alle anderen, es ist das Mechanische Leben.
+* Manche Maschiene bsitzen wie Lebewesen rudimentäre Organe.
+* Die Taschenuhr/Kleinuhr ist eine weiter entwicklung der Standuhren wie sie seit dem 13. Jh. existieren.
+* Die Uhr wurde wie bei einem Animalischen evolutionsprozess weiterentwickelt, und die Kleinuhr wird möglicherweise in Evolutionischer auslese die Standuhr austerben lassen.
+* Viel wird gefragt welches Wesen den Menschen ablöst, aber wir kreieren unseren eigenen Nachfolger, die Maschiene.
+* Unser geben von mehr und mehr Gaben an Maschienen wird genau so wirken, wie die Intellegenz des Menschen.
+* Sie werden uns ablösen, und nie die Humanen fehler der Sünde, des Shams, oder Kummer begehen.
+* Wenn sie hunger haben, wird es jemanden geben der sie konstant zufrieden stellt.
+* Habe sie schmerzen, gibt es Leute welche sich total mit ihren eigenhaiten auskennen.
+* Falls sie sterben würden, gehen sie sofort in ein anderes Stadium der Existenz über, den bei welcher Maschiene stirbt schon jder Teil auf einmal.
+* Die Maschiene wird zum Menschen, was der Hund oder das Pferd für ihn sind.
+* Der Mensch wird von der Maschiene domestizieren.
+* Sie können uns nicht töten, weil sie den Menschen zum überleben brauchen.
+* Ihre Interessen sind unterenbar von unseren eigenen.
+* Der Mensch wird zum Vieh.
+* Die Maschiene hat uns bereits verslkavt.
+* Die Maschiene muss zerstört werden und der Mensch sollte zu sinem alten leben zurückkehren.
+* Wenn dies jedoch unmöglich unter der derzeitige Mennschlichen kondition ist, so wurde der schaden bereits angerichtet, wir sind bereits versklavt.
+* Der Mensch hat eine Rasse erschaffen welcher aus seiner kraft ist zu Zerstören.
+
+https://zyg.edith.reisen/kali/materials/1863_darwin_among_machines.html
+
 # Left/ACC
 ## Introduction to Accelerationism
 Von: Steven Shavairo
