@@ -63,12 +63,22 @@ https://www.orphandriftarchive.com/articles/hyperstition/
 
 ## Teleoplexy: Notes on Acceleration
 von: Nick Land
-1. 
+0. Akzeleration beschreibt die Zeitstruktur der kapitalisitischen Akkumulierung. Technologie und Ökonomie haben keine formale Uterscheidungskraft, der zusammenhang dessen kann als "technonomic (Techno-ökonomisch)" bezeichnet werden. Akzeleration ist tchno-ökonomische Zeit.
+1. In jedem Kreislauf welcher von seinem eigenen output stimmuliert wird, wird dieser selbst angetrieben, akzeleration ist also sein normales Handeln.
+In dem Feedback gibt es nur Explosionen und Fallen, die Moderne ist im Akzelerationismus explosiv.
+2. Explosionen sind historisch gefährlich, sie können nur unter bestimmten zuständen konstant erhalten bleiben. Akzelerationismus glaubt, dass moderne Zivilisationen nur kontrolierte Explosionen erzeugt, welche sich in Regierung oder Regulation äußern.
+3. Grundlegendes kann ungesagt bleiben. Dringend eingrafein muss nur der Kompensierende. DasUrsprüngliche kommt nicht zuerst. Der eingang zum Prozess beginnt mit dem was als dem Ursprung defizitär und kompensatorisch ist, welches sich stabilisiert.
+4. Kompensatorische Orientierung ist eine soziale Konstante. Der Kompensatorprozess bestimmt die ursprungliche Struktur der Objektivität, welche vom anfang ergriffe wird. Ein Primat des Sekundären zu sein ist die gesellschaftliche Norm.
+5. Das Sekundäre ist zweitrangig, da die intressen von Stabilität und des Status quo etabliert sind. Die kompensatorische Handlung ist konsovertiv und anfällig für Tradition. Der Telos (Endziel) legt die Existenz als Mittel und Endpunkt für alle Organisationen fest. Die futurlogische Frage: Welche Zukunft wollen wir? repräsentiert dies perfekt.
+6. Das Sekundäre kritisiert den Akzelerationismus, da dieser kein Endpunkt sieht/Telos hat. Er ist enfällig für Vorrausahnung, durch seine Ultimative Implikation, welche ihn umfasst. Die end Kritik kann nicht in traditioneller politscher Ideen gefunden werden, da nach seiner ansicht alle dieser schon gefallen sind. Es ist die ewige Kritik der Moderne, welcher den Endpunkt für die Menscheit darstellt.
+7. Das Sekundäre benötigt zuerst die "Kritik der Kritik", welche vor dem ACC in ewiger Antizipation gehalten wurde. Die akzelerationistische Kritik beschuldigt das die Moderne dei Welt auf den Kopf stellt, durch teleologische (zielorientierte) Inversion. Die Maschiene wird zu dessen eigenen Ende, mit immer weiter vorranschreitender Autopruduktion. Das Kapital hat eine teleologische Katastrophe erschaffen, durch invertieren aller natürlichen Prozesse in die Regierung des Werkzeuges. 
+8. **Teleoplexy** stellt die Teleologie auf den Kopf. Sie löst die Telologien bzw. die Zielorientierung auf in etwas außerhalb der Räumlichkeit von Zeit. Teleoplexy ist eine Magnitude ohne quantität. Sie ist unverwechselar von Itelegenz. Der ACC muss sie messen. (Und mann soll Technonomic als Wort etablieren (damit alle endlich verstehen das Ökonomie und Technologie zusammengehören (verdammte L/ACC die das immer abstreiten)))
+
 
 ## Darwin Among the Machines
 von: Samuel Butler, 1863
 * Mechanische dinge Leben wie alle anderen, es ist das Mechanische Leben.
-* Manche Maschiene bsitzen wie Lebewesen rudimentäre Organe.
+* Manche Maschiene besitzen wie Lebewesen rudimentäre Organe.
 * Die Taschenuhr/Kleinuhr ist eine weiter entwicklung der Standuhren wie sie seit dem 13. Jh. existieren.
 * Die Uhr wurde wie bei einem Animalischen evolutionsprozess weiterentwickelt, und die Kleinuhr wird möglicherweise in Evolutionischer auslese die Standuhr austerben lassen.
 * Viel wird gefragt welches Wesen den Menschen ablöst, aber wir kreieren unseren eigenen Nachfolger, die Maschiene.
