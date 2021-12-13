@@ -70,10 +70,13 @@ In dem Feedback gibt es nur Explosionen und Fallen, die Moderne ist im Akzelerat
 3. Grundlegendes kann ungesagt bleiben. Dringend eingrafein muss nur der Kompensierende. DasUrsprüngliche kommt nicht zuerst. Der eingang zum Prozess beginnt mit dem was als dem Ursprung defizitär und kompensatorisch ist, welches sich stabilisiert.
 4. Kompensatorische Orientierung ist eine soziale Konstante. Der Kompensatorprozess bestimmt die ursprungliche Struktur der Objektivität, welche vom anfang ergriffe wird. Ein Primat des Sekundären zu sein ist die gesellschaftliche Norm.
 5. Das Sekundäre ist zweitrangig, da die intressen von Stabilität und des Status quo etabliert sind. Die kompensatorische Handlung ist konsovertiv und anfällig für Tradition. Der Telos (Endziel) legt die Existenz als Mittel und Endpunkt für alle Organisationen fest. Die futurlogische Frage: Welche Zukunft wollen wir? repräsentiert dies perfekt.
-6. Das Sekundäre kritisiert den Akzelerationismus, da dieser kein Endpunkt sieht/Telos hat. Er ist enfällig für Vorrausahnung, durch seine Ultimative Implikation, welche ihn umfasst. Die end Kritik kann nicht in traditioneller politscher Ideen gefunden werden, da nach seiner ansicht alle dieser schon gefallen sind. Es ist die ewige Kritik der Moderne, welcher den Endpunkt für die Menscheit darstellt.
+6. Das Sekundäre kritisiert den Akzelerationismus, da dieser kein Endpunkt sieht/Telos hat. Er ist enfällig für Vorrausahnung, durch seine Ultimative Implikation, welche ihn umfasst. Die end Kritik kann nicht in traditioneller politscher Ideen gefunden werden, da nach seiner ansicht alle dieser schon gefallen sind. Es ist die ewige Kritik der Moderne, welcher den Endpunkt für die Menschheit darstellt.
 7. Das Sekundäre benötigt zuerst die "Kritik der Kritik", welche vor dem ACC in ewiger Antizipation gehalten wurde. Die akzelerationistische Kritik beschuldigt das die Moderne dei Welt auf den Kopf stellt, durch teleologische (zielorientierte) Inversion. Die Maschiene wird zu dessen eigenen Ende, mit immer weiter vorranschreitender Autopruduktion. Das Kapital hat eine teleologische Katastrophe erschaffen, durch invertieren aller natürlichen Prozesse in die Regierung des Werkzeuges. 
 8. **Teleoplexy** stellt die Teleologie auf den Kopf. Sie löst die Telologien bzw. die Zielorientierung auf in etwas außerhalb der Räumlichkeit von Zeit. Teleoplexy ist eine Magnitude ohne quantität. Sie ist unverwechselar von Itelegenz. Der ACC muss sie messen. (Und mann soll Technonomic als Wort etablieren (damit alle endlich verstehen das Ökonomie und Technologie zusammengehören (verdammte L/ACC die das immer abstreiten)))
-
+** Teleoplexy kann als Zielverwirrung o. Zielabschlag übersetzt werden. (Teleo/Teleos=Ziel, Plexy/Plexia/Plexic=Krüppelnder Herzinfakt)
+9. Teleoplexy als selbsterhaltende kybernetische Intensivierung, beschreibt die Wellenlänge der Maschienen, welche in alle richtungen als Ultraviolet ausbricht. Welche sich durch den Gradienten einer verbsserten Sozial-Ökonomischen verbesserung, als mass von Produktivität, Kompetivität und Vermögenswert äußert.
+10. ACC hat nur Teleoplexy als reales Objekt, also nur so lange Kapitalisierung die naturelle historische Realität ist. Teloplexy zeigt sich als ökonomisches Phänomen durch Preisdaten (Steigung dessen). 
+11. 
 
 ## Darwin Among the Machines
 von: Samuel Butler, 1863
@@ -199,9 +202,86 @@ von: Steven SHavairo
 * Sie steht auch im wiederspruch mit unserer moderner und postmoderner ansicht auf begehren. Sie akzeptiert gehrne die Temporäre befriedigung, als das sie sich konstant im ständigen unerfüllten verlangennsuhlt.
 * “Less than All cannot satisfy Man”
 * Keynes:“We have been trained too long to strive and not to enjoy.”
-* Neoliberalismus träumt davon alles in einen Markt zu verwandeln, doch Keyns meint wir werden nur ein gutes Leben leben, wen wir frei von diesem druck sind.
+* Neoliberalismus träumt davon alles in einen Markt zu verwandeln, doch Keyns meint wir werden nur ein gutes Leben leben, wenn wir frei von diesem druck sind.
 * Classische Ökonomie nimmt an das es unendliche begehren gibt, aber nur limitierte Resourcen. 
 * Wir sollten nicht mit weniger leben, sondern die geschenke der unendlich gebenden Sonne weiter verteilen.
 * Um den Parasieten zu besigen, muss man ein Parasiet im Parasieten werden, eine parasitäre Inversion.
 
 https://manifold.umn.edu/read/no-speed-limit/section/6166337c-2f8a-4fa2-b215-b83838ae099a
+
+## Marxist Accelerationism, (Nick) Land, Capital and Labor
+* Marxisten haben seit den 60ern versucht alles mögliche in ihre theorie zu etablieren selbst den ACC.
+* Welches ihnen nicht möglich ist da sie die Wert frage (Arbeitswerttheorie) nicht gelöst haben, also keine verbindung zwischen Kapital und Wert herrgestellt haben.
+* Marx selber wiederspricht sich selber in seiner Wert Theorie
+* Kontradiktionen in Ökonomischen Texten drücken einen weiteren realen wiederspruch aus.
+* Der Punkt ist die Kontradiktionen zu beschleunigen.
+* Selbst wenn es keine gibt, dann wird Akzelerationismus zu einem Todes Impuls.
+
+https://therealmovement.wordpress.com/2014/08/17/marxist-accelerationism-nick-land-capital-and-labor/
+
+## The Labour of Abstraction: Seven Transitional Theses on Marxism and Accelerationism 
+#### 1. Capitalism is an object of high abstraction, the common is a force of higher abstraction.  
+* Das Handfeste ist das Resultat. Das Produkt eines Prozesses der Abstraktion: kapitalistische Realitaät und revolutionäre ist eine Erfindung.
+* Abstrakition ist eine Tendenz des Kapitals und des Marxismus.
+* Abstraktion ist die bewegung des Kapitals aber auch dessen Wiederstand.
+* Abstraktion ist der mittelpunkt der Methode der antagonistischen Tendenz als Prozess des kollektivenn Wissens.
+* Der Prozess die Abstraktion festzulegen ist ein Wichtiger Prozess der proletarischen Erleuchtung und daher Teil der Kritik und Form des Wiederstandes.
+#### 2. Capitalism has evolved into further monetary and technological abstractions.
+* Kontemporärer Kapitalismus hat sich in zwei richtungen der Abstraktion entwickelt: monitärer Abstraktion (Finanzialisierung) und technologische Abstraktion (die Algorithmen der Metadaten-Gesellschaft).
+* Technische Struktur hat sich zu algorithmischen Abstraktion von Netzwerken entwickelt (Daten Regierung).
+* Wert Struktur hat sich zur monitären Abstraktion von Derivativen und Futures entwickelt (Schulden Regierung).
+* Eine kybernetische Fabrik, wie heutige digitale Netzwerke, ist es möglich menschliches Wissen in mechanischen Wert und Intelegenz zu transformieren.
+* Kapitalismus wurde so zu einer globalen autonomenn Intelegenz.
+#### 3. Abstraction is the form of both cognitive capitalism and biopower.
+* Es gibt eine Kraft welche nicht durch die Technik von der repression der sexualität existiert, sondern durch postive Produktion von Wissen über diese.
+* Die Funktion der Norm ist nicht auszuschließen oder abzulehnen. Sondern ist immer in verbindung zu einer positiven Technik der Intervention und Transformantion des normativen Projektes.
+* Es ist keine Kraft der Ignoranz sondern eine Kraft welche nur funktioniert durch das erschaffen von Wissen.
+* Normative Kraft basiert auf der Macht der Abstraktion.
+* Das Problem ist das neben der politik des Lebens immer noch das Problem der politik der Abstraktion steht.
+* Die Welt der "Biopower" (Das oben beschribende) und des Kognitiven Kapitalismus sollten als ausbeudutung und entfremdung von Macht der Abstraktion beschrieben werden.
+#### 4. Abstraction is the spinal cord of the perception of the World.
+* Abstraktion ist eine form des fühlens, daher des gefühlten Körpers und der gefühlte Welt.
+* Visuelle Wahrnehmung basiert auf der Fähigkeit des Gehirns, abstrakte Linien zu Allgemeinern.
+* Wahrnehmung ist ein teil des aktiven Denkens.
+* Wahrnehmung ist theoretische Konstruktion.
+* Der Geist entsteht als Schwarm kollektiver Zusammnarbeit und Abstraktion von Singularitäten (Zellen, Atome), welche die Wahrnehmung des Körpers und des Selbst erzeugen.
+* Wenn der atomare Schwarm verändert ist, ändert sich die Wahrnehmung der äußeren Gestalt.
+* Abstraktion muss als Kraft des Geistes betrachtet werden, welcher Sprache, Mathematik und Wissenschaft vorrasugeht.
+* Sie ist für unsere Wahrnehmung und unser Verständniss verantwortlich. Wir bracuhen es um Gefühle und Details wahrzunehmen.
+* Sie kann daher das Selbst üer Kulturelle grenzen Projezieren und sich neuen umgebungen anpassen.
+
+#### 5. Eros is the cruel abstraction of the Self.
+* Es gibt keinen Konflikt zwischen Wissen ud Leben.
+* Der Konflikt ist zwischen dem Menschen und der Welt.
+* Konflikt ist der Weg zur Erkenntniss.
+* Philosophen trauen der Deerotisierung des Körpers durch die hypersexualisierten Medien hinterher.
+* Der Wiederstand besteht aber nicht darin mehr Körper zu wollen, sondern die entfremdete Abstrakte Kraft zurück zu gewinnen.
+* Abstraktion muss nicht als trieb gegen das LEben gesehen werden, sondern als gewaltätige Geste eines jeden Wesens gegen dessen Identität.
+* "Die außerirdische Anatomie enthält den Schlüssel zur Anatomie des Menschen."
+
+#### 6. The power to accumulate, the power to restrain, the power to accelerate.
+* Politik ist Taktik und Strategie des Zeitlichen.
+* Marx hat zwei Fehler gemacht: 
+1. Heilserwartung in einen wichtigen zetlichen Moment zu legen (Messianismus des Kairos), bzw. wurde die Zeit als etwas unumdingbahres/göttliches definiert.
+2. Quantifikation der sequenzierten Zeit (Quatifiktaion des Kronos), bzw. dass Abmessen des Mehrwertes in Uhr Stunden.
+* [Mehr info zu Kronos und Kairos Zeit Konzepte] (https://www.creativity-portal.com/articles/marney-makridakis/kronos-kairos-time.html)
+* Die tendenz der fallenden Profitrate wird zum ersten Diagramm des ACC.
+* Sollten wir uns vom Markt fern halten oder ihn in eine andere richtung bringen. Oder sollten wir mit dem Markt gehen und dessen Deterritorialisierung zu erkennen, oder gleich den gazen Prozess beschleunigen?
+* Marx wird kritisiert dafür das seine Komposition des Kapitals primär auf die industrielle Fabrik beschränkt ist und nicht die ganze Welt.
+* Gegen das klaustrophobische verschränken (katechon) und für die aktive äußere Partizipation des ACC.
+
+#### 7. From general intellect to alien intelligence, or the subject of abstraction.
+* Autonome Marxisten sehen dem Kapitalismuss als etwas unhumanes, welches überkomme werden muss.
+* Trotzdem ist es das primäre Projekt posthuman zu werden, da es keine Abeiterklasse gibbt für die man nostalgisch sein sollte.
+* Kapitalismuss ist etwas außerirdisches, man muss es also als solches studieren, in eier art Xenoeconomics.
+* Vom kognitiven Kapitalismus, zum Kapitalismus als Außerirdischeinteligenz.
+* Kapitalismus ist eine Invasion aus der Zukunft.
+* Der general interlect (allgemein Wissen) wurde auch in außerirdisches Wissen transformiert.
+* Die Abstraktion muss mit unhumanen Kräften eine Zusammenarbeit finden.
+* Marxs fallende Profitrate muss dort seinen Zwilling finden.
+* Also keine katastrophale Kapital akzeleration, sondern als eine Wiederaneignung des anlage Kapitals als Technologie und Wissen.
+* Die Kollektive Intelligenz muss zu einer feindlichen werden, welche den Wirt wie einen Parasiten befällt.
+* Eine außerirdische Intellegenz hällt sich nicht mit orthodoxen Dingen auf, sondern erschaft seine eigene Irrenlehre.
+
+http://matteopasquinelli.com/labour-of-abstraction-theses/
+
