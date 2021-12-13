@@ -264,7 +264,7 @@ https://therealmovement.wordpress.com/2014/08/17/marxist-accelerationism-nick-la
 * Marx hat zwei Fehler gemacht: 
 1. Heilserwartung in einen wichtigen zetlichen Moment zu legen (Messianismus des Kairos), bzw. wurde die Zeit als etwas unumdingbahres/göttliches definiert.
 2. Quantifikation der sequenzierten Zeit (Quatifiktaion des Kronos), bzw. dass Abmessen des Mehrwertes in Uhr Stunden.
-* [Mehr info zu Kronos und Kairos Zeit Konzepte] (https://www.creativity-portal.com/articles/marney-makridakis/kronos-kairos-time.html)
+* [Mehr info zu Kronos und Kairos Zeit Konzepte](https://www.creativity-portal.com/articles/marney-makridakis/kronos-kairos-time.html)
 * Die tendenz der fallenden Profitrate wird zum ersten Diagramm des ACC.
 * Sollten wir uns vom Markt fern halten oder ihn in eine andere richtung bringen. Oder sollten wir mit dem Markt gehen und dessen Deterritorialisierung zu erkennen, oder gleich den gazen Prozess beschleunigen?
 * Marx wird kritisiert dafür das seine Komposition des Kapitals primär auf die industrielle Fabrik beschränkt ist und nicht die ganze Welt.
