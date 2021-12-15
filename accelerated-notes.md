@@ -6,7 +6,7 @@ Der Kapitalismuss an sich hat nach Nick Land keine wiedersprüch in sich (Er ist
 Der Hauptdenker und begründer dieser Ideologie ist Nick Land. Dieser hat an der Warwick Universität in einem Kollektiv von Kulturellen Theoretikern namens "Cybernetic Culture Research Unit" (CCRU), den Akzelerationismuss gegründet.
 Die CCRU war ein Platz welchem sich viel mit Experementellen ideen zu Themen wie Cyberpunk, Kypernetik, Speculative-Realtität, Rave-Kultur und dem Okkult auseinander gesetzt wurde.  
 
-Dies soll nun für mich eine Studie dieser Ideen werden, vom Akzelerationismus zum Numogramm, mit der Hoffnung das die Zeit Lemuren bereit sind sich selber für die Menscheit zu Opfern um die ewige Spirale der kapitalistischen Singularität zu beenden.
+Dies soll nun für mich eine Studie dieser Ideen werden, vom Akzelerationismus zum Numogramm, mit der Hoffnung das die Zeitlemuren bereit sind sich selber für die Menscheit zu Opfern oder uns zu helfen, um die ewige Kreislaufregierung der OGU, der hierachie der Zeit und der kapitalistischen Singularität zu beenden, indem wir ein Spirale erzeugen durch, von dessen öffnungen der Mensch aus seiner Gefangenschaft entflieht.
 
 # Generelles
 ## A Quick-and-Dirty Introduction to Accelerationism
@@ -82,7 +82,10 @@ In dem Feedback gibt es nur Explosionen und Fallen, die Moderne ist im Akzelerat
 14. Das Kapital eine depolitizierung, digitale destribution, selbst replikation, automatisierung und selbst verbessurung, damit es Teleoplexisch Selbsterkenntnis erlangt. ACC erweitert sich nur durch verfolgung dieser Entwicklung, ohne genau die Technonomische Singularität herrauszustellen. Man braucht ihn um die Moderne zu erklären.
 15. Die Relativität, Virtualität und Reflexivität verhindern ein genaue Untersuchung. Weitere Schwirigkeiten sorgen wenn man sie getrennt analysiert, zu einer nicht konkreten Theorie.
 16. Die Ökonomie ist ein Phenomän der soziogeschichtlochen Produktion. Es ist eine objektive Struktur von erscheinungen welche evaluierte Dinge auf die Bühe bringen. Es ist auch ein politisches Schlachtfeld, in welcher strategische Manipulation großen Wert hat.
-17. 
+17. Gesellschaftspolitische Altformen verschleiern oft fortgeschrittene techonomische Prozesse. Legale definitionen wie eigentum missverstehen die Automatisierung des Kapitals, welches das Eigentum in eine Krise stellt. Dieses Missverständnis führt zu einer Systematischen fehlerkennung der teleoplexischenAgenturen.
+18. Kapitalkonzentration ist ein synthetisches Merkmal der Kapitalisierung. Einzelne Kapitalbereiche sind schwehr zugänglich. Es gibt keine Unvereinbarkeit technonomischer Intensivierung und Kapital außerhalb des Fabrikmodells. Besonders Sachgut des privaten Haushalts bieten einen Ort für heimliche Kapitalakkumulation, durch z.B 3D-Druckern und digital Geräte. Dieser Mikrokapitalismus kann schlecht von dem Überwachungstaat wargenommen werden.
+19. Fortschritte der technonomischen Sigularität werden von Agenturen verdeckt werden, wie z.B Geheimdienste, Firmen, Staaten usw. Soweit sie nicht vom Markt beeinflusst werden, sind sie vermehrt Persönlichkeiten und anthropolizschen einflussen geprägt ()wenig Teleoplexisch. Dadurch könnte die Singularität abgebrochen werden. Solche lokalen Teleologien wurden die kontinuirlichen Trendlinien stören.
+20. Ja, Akzeleration erfüllt sich selber und bringt in seiner für uns undurchdringbaren komplexität einen ausweg. Wir können dies durch reflexion antzipieren. Akzelerationismus wurde diese Aufgabe zugeteielt. 
 
 ## Darwin Among the Machines
 von: Samuel Butler, 1863
@@ -107,6 +110,36 @@ von: Samuel Butler, 1863
 * Der Mensch hat eine Rasse erschaffen welcher aus seiner kraft ist zu Zerstören.
 
 https://zyg.edith.reisen/kali/materials/1863_darwin_among_machines.html
+
+## Decompose
+von: n1x 2020
+* Der Körper ohne Organe ist ein unendliches nichts.
+* Das Wesen weiß es noch nicht, aber es existiert schon nicht mehr.
+* Es versucht seine Existenz durch linierität und ein Ende wieder zusammen zu fügen.
+* Zeit vergeht weil sie aufgezeichnet wird.
+* Was als liniar war genommen wird, ist ein Virus der Vergangenheit.
+* Durch ein Virus erlang ein Proto-Säugetier den Horror des Bewusstseins.
+* Man erlebt durch fehler, fehler i der aufgenommenen Zeit.
+* Die Existenz wird fragmentiert in alle Richtungen, was einmal war ist jetzt, und war schon immer.
+* Identität existiert nur durch die existenz von Erinnerung, existenz der Erinnerung kommt nur durch den Virus
+* Die Existenz von Zeit und Erinnerung versucht nicht einmal die Illosion zu verstecken.
+* Es gab niemals ein reales ich oder dich, es ist nur ein Symptom eines Jahrzehnte alten Virus.
+* Der eizige weg herraus ist mehr Wahn: die Schizophrenie.
+* Jeder ist reduziert in Kategorien, welche die Rebellion des selbst im selbst lassen.
+* Etwas was nie Existiert hat, kann weder leben noch sterben.
+
+https://nyxus.xyz/posts/decompose/
+
+## The Tyranny Of Time
+* "Die Uhr misst nicht die Zeit, sie prodziert Sie"
+* Zeit ist ein Konstrukt kein Phenomän
+* Wir verstehen die Dinge außerhalb von uns nicht, da sie nicht wie wir an die Zeit gebunden sind.
+* Es gibt keine absulute Zeit, Zeit wird verändert, und jede Uhr geht falsch.
+* Uhren und mit ihr die Zeit wurden von Mönche des 14. Jh. erschaffen.
+* Die Zeit hat nun dessen Gott abgelöst.
+
+
+https://www.noemamag.com/the-tyranny-of-time/
 
 # Left/ACC
 ## Introduction to Accelerationism
