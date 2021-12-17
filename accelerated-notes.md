@@ -324,3 +324,21 @@ https://therealmovement.wordpress.com/2014/08/17/marxist-accelerationism-nick-la
 
 http://matteopasquinelli.com/labour-of-abstraction-theses/
 
+## Acid Communism (Unfinished Introduction)
+von: Mark Fisher
+* "Das Phantom einer Welt welche Frei sein könnte"
+* Die Überwindung des Kapitals muss darauf basiert werden das es kein Reichtum produziert,sondern konstant die Produktion von Gemeinwohl verhindert.
+* Neoliberalismus macht Alternativen undenkbar.
+* Dies nennt man Kapitalistischen Realismus.
+* Die Romantische Fantasien erschaffen einen Gedanken welcher die Gesellschaft zerstört, welche sie unterdrückt.
+* Kunst ist eine postivie entfremdung, eine rationale Negation der existierenden Dinge.
+* Kapital generiert künstliche Knappheit, um wirkliche knappheit zu produzieren und umgekehrt. Die Reale Knappheit vo Resourcen hat ihn eingeholt. Die künstliche ist eine der Zeit, um uns von der imanenten Freiheit abzulenken.
+* Zwanghafte Individualisierung des Neoliberalismus
+* Potenziale üben Einfluss aus, ohne aktualisiert zu werden.
+* Wirkliche veränderungen werden von den Potentialen geformt.
+* "Wir müssen etwas produzieren, das es noch nicht gibt und über das wir nicht wissen können, wie und was es sein wird." Foucault
+* Man muss neu möglichkeiten erschaffen welche noch nicht erdacht wurden, ählich wie in den 60ern.
+* Denn jede idee der Zukunft wurde i früheren interpretationen dieser erdacht ud verwirklicht.
+* Zu verstehen, wie dieser Prozess der Bewusstseinsdeflation funktionierte, ist der erste Schritt, um ihn umzukehren.
+
+https://my-blackout.com/2019/04/25/mark-fisher-acid-communism-unfinished-introduction/
