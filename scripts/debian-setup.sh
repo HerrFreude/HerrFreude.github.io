@@ -13,7 +13,7 @@ sudo apt-get upgrade
 echo "done"
 
 echo "installing basic utils..."
-sudo apt-get install -yy git alsa-utils
+sudo apt-get install -yy git alsa-utils neovim
 echo "done" 
 
 echo "installing office utils..."
@@ -32,7 +32,7 @@ echo "creating directorys..."
 cd ~
 mkdir dox
 mkdir ~/dox/Unterlagen
-mkdir runter
+mkdir dl
 mkdir pix
 mkdir mus
 echo "done"
@@ -40,12 +40,21 @@ echo "done"
 echo "downloading your configs..."
 cd ~
 git clone sume.github.git/user/HerrFreude.github.io
-cp ~/HerrFreude.github.io/configs/. ~/.config/
+cp ~/HerrFreude.github.io/configs/ ~/config
 cd ~
 echo "done"
 
 echo "putting configs in the right place"
 cd ~ 
+mv ~/config/bash/bashrc ~/.bashrc
+mv ~/config/bash/bash_aliases ~/bash_aliases
+mv ~/config/bash/profile ~/.profile
+mv ~/config/bash/bash_logout ~/.bash_logout
+mv ~/config/x11/xinitrc ~/.xinitrc
+mv ~/config/x11/Xresources ~/.Xresources
+mv ~/config/cwm/cwmrc ~/.cwmrc
+mv ~/config/vim/vimrc ~/.vimrc
+
 
 echo "done"
 
