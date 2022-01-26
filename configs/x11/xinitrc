@@ -1,0 +1,14 @@
+xset -b
+# Set Wallpaper 
+#xsetroot -solid "#79aa92"
+xsetroot -solid "#385947" 
+#xsetroot -solid "#a5a5a5"
+
+# Activate .Xresources
+xrdb -merge ~/.Xresources
+
+# Set lower screen brightness
+xrandr --output DVI-I-1 --brightness 0.7
+
+# Execute WM
+exec openbsd-cwm

@@ -1,0 +1,8 @@
+set default-bg \#31332e
+set statusbar-fg \#d3d3d3
+set statusbar-bg \#4d4d4d
+set statusbar-v-padding 8
+set recolor
+set recolor-lightcolor \#31332e
+set recolor-darkcolor \#d3d3d3
+set sandbox strict

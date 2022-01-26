@@ -1,0 +1,56 @@
+# Bash Aliases
+
+# Youtube-dl audio download 
+alias youtube-dl-audio='youtube-dl --ignore-errors --output "%(title)s.%(ext)s" --extract-audio --audio-format mp3'
+
+# Instead of vim use neovim
+alias vim='nvim -u ~/.vimrc'
+
+# Open a private firefox window
+alias jailfox='firejail --private firefox -no-remote'
+
+# Nightschift mit redshift und xrandr
+alias nightmode='xrandr --output DVI-I-1 --brightness 0.6 ; redshift -O 3500'
+alias daymode='redshift -x ; --brightness 0.7'
+
+# Play GIF Animations with sxiv
+alias sxiv-gif='sxiv -a'
+
+# Display insults and other comments about computer fuckery
+alias sucks='shuf -n 1 sucks'
+
+# Display the time
+uhr () {
+	while : 
+	do
+		zeit=$(date +%R) 
+		printf "\r$zeit"; 
+		sleep 60s
+	done
+}
+
+# Play internet audio streams with ffplay and display tittle
+mustrem () {
+	echo "NOW PLAYING:"
+	tput bold
+	youtube-dl -e $1
+	tput sgr0
+	youtube-dl -f bestaudio $1 -o - 2>/dev/null | ffplay -nodisp -autoexit -i - &>/dev/null
+	while :
+	do
+        	printf  "\r.  "
+        	sleep 1s 
+        	printf  "\r.. "
+        	sleep 1s
+        	printf  "\r..."
+        	sleep 1s
+	done
+}
+
+# Play a video stream in ffplay with 360p (es läuft aber leider sehr schlecht)
+vidstrem () {
+	youtube-dl $1 -f 18 -o - | ffplay - -autoexit -loglevel quiet
+}
+
+# Play music in a folder + Display Name and Duration
+alias mp='for f in *.mp3 ; do echo "NOW PLAYING:"; tput bold; echo "$f"; tput sgr0; ffmpeg -i "$f" 2>&1 | grep Duration; ffplay -nodisp -autoexit -loglevel quiet "$f"; echo "     "; done'

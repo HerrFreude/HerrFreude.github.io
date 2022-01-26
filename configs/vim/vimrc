@@ -1,0 +1,14 @@
+syntax off
+set noerrorbells
+set nu
+set smartcase
+set noswapfile
+set nobackup
+set undodir=~/.vim/undodir
+set undofile
+set incsearch
+set mouse=a
+set noruler
+set laststatus=0
+highlight LineNr ctermfg=254 
+
