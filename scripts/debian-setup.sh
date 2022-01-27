@@ -13,7 +13,7 @@ sudo apt-get upgrade
 echo "done"
 
 echo "installing basic utils..."
-sudo apt-get install -yy git alsa-utils neovim
+sudo apt-get install -yy git alsa-utils
 echo "done" 
 
 echo "installing office utils..."
@@ -21,7 +21,7 @@ sudo apt-get install -yy pandoc aspell aspell-de aspell-en
 echo "done" 
 
 echo "installing multimedia utils..."
-sudo apt-get install -yy zathura sxiv ffmpeg firefox
+sudo apt-get install -yy zathura sxiv ffmpeg firefox newsboat
 echo "done" 
 
 echo "installing windowmanager..."
