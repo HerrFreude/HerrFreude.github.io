@@ -1,37 +1,27 @@
 # ~/.cwmrc
 
-# default font
+# Default font
 fontname "DejaVuSansMono-Bold:size=15"
 
-# border width
+# Border width
 borderwidth 0
 
-# automatically add new windows to the current group
+# Automatically add new windows to the current group
 sticky yes
 
-# snap windows to edges 
+# Snap windows to edges 
 snapdist 12
 
-# leave a gap
-gap 30 30 30 30
+# Leaving a gap
+gap 20 20 20 20
 
-# colors
-color activeborder   '#c9c7a1'
-color inactiveborder '#6f7e69'
-color font           '#cbd6cf'
-color selfont        '#cbd6cf'
-color menubg         '#31332e'
-color menufg         '#49514c'
-
-# Plan9 colors
-#color activeborder   '#9eeeee'
-#color inactiveborder '#9eeeee'
-#color font           '#383a42'
-#color selfont        '#e8fce8'
-#color menubg         '#e8fce8'
-#color menufg         '#408840'
-
-# Colors i dont need
+# Colors #88cc88
+color activeborder   '#7dc6c6'
+color inactiveborder '#9eeeee'
+color font           '#43464f'
+color selfont        '#43464f'
+color menubg         '#f2f2f2'
+color menufg         '#cccccc'
 color groupborder    '#a66363'
 color ungroupborder  '#a6a663'
 color urgencyborder  '#ef8888'
@@ -39,13 +29,9 @@ color urgencyborder  '#ef8888'
 # Programms in the command menu
 command Term 	xterm
 command Browser		firefox
-command Monitor	"xterm -e htop"
-command Datein	"xterm -e nnn"
+command Monitor	"xterm -e top"
 command Neues	"xterm -e newsboat"
-command Musik	"xterm -e cmus"
 command Ton	pavucontrol 
-#command tagmodus "./lightmode.sh"
-#command nachtmodus	"./darkmode.sh" 
 
 # Ignore programs by not drawing borders
 ignore xclock
@@ -57,47 +43,21 @@ ignore xmessage
 # S = shift
 # C = control
 # M = meta (alt)
-# remove all default bindings
 unbind-key all
-
-# mod + shift + enter = new xterm
 bind-key 4S-Return xterm #terminal
-
-# mod + L = lock screen (slock)
-bind-key 4-l slock
-
-# mod + backspace = hide window
-bind-key 4-BackSpace window-hide
-
-# mod/alt + tab = cycle through current windows
-bind-key 4-j window-cycle
-# mod + k = same thing in reverse
-bind-key 4-k window-rcycle
-
-# mod + Shift + c = quit window
+bind-key 4-l slock # lock screen
+bind-key 4-BackSpace window-hide # hide window
+bind-key 4-j window-cycle # cycle through windows
+bind-key 4-k window-rcycle # recycle 
 bind-key 4S-c window-delete
-
-# mod + F = make current window fullscreen
 bind-key 4-f window-fullscreen
-# mod + M = maximize current window
 bind-key 4-m window-maximize
-
-# mod + V = tile windows vertically, current window to the left
 bind-key 4-v window-vtile
-# mod + S = tile windows horizontally, current window to the top
 bind-key 4-s window-htile
-
-# mod + shift + Q = Quit cwm
-bind-key 4S-q quit
-
-# mod + shift + R = reload config
-bind CM-r restart
-
-# mod + p = exec dialog
-bind-key 4-p menu-exec
-
-# Screenshot + Screencast
-bind-key Print "scrot"
+bind-key 4S-q quit # quit cwm
+bind CM-r restart # restart cwm
+bind-key 4-p menu-exec # open exec menu
+bind-key Print "scrot" # screenshot
 
 # MOUSBINDINGS
 # 1 = left mouse button
@@ -109,7 +69,6 @@ unbind-mouse CM-1
 unbind-mouse M-2
 unbind-mouse M-3
 unbind-mouse CMS-3
-
 # mod + left click drag = move window
 bind-mouse 4-1 window-move
 # mod + right click drag = resize window
