@@ -9,7 +9,7 @@
 XTerm.termName: xterm-256color
 
 ! Set exec size
-XTerm*geometry: 40x16+580+270
+XTerm*geometry: 34x12+610+330
 
 ! Set text padding
 XTerm*internalBorder:34
@@ -22,55 +22,35 @@ xterm*font: *-fixed-*-*-*-18-*
 ! Set  utf-8 support
 XTerm.vt100.locale: true
 
-! Set color theme 
- *background: #31332e
- *foreground: #f7f7f7
- *color0:     #141414
- *color1:     #dd6682
- *color2:     #aece91
- *color3:     #efd670
- *color4:     #8c8cd1
- *color5:     #c96072
- *color6:     #7abcb4
- *color7:     #666666
- *color8:     #666666
- *color9:     #ef8171
- *color10:    #e7f49a
- *color11:    #f9f490
- *color12:    #4186be
- *color13:    #f56789
- *color14:    #71bebe
- *color15:    #f7f7f7
+! Set color theme e0d7c0 
+!*background: #4f4b43 35322d
+*background: #f2f2f2
+*foreground: #43464f
+*color0:     #1f1f1f
+*color1:     #dd6682
+*color2:     #aece91
+*color3:     #efd670
+*color4:     #8c8cd1
+*color5:     #c96072
+*color6:     #7abcb4
+*color7:     #666666
+*color8:     #666666
+*color9:     #ef8171
+*color10:    #e7f49a
+*color11:    #f9f490
+*color12:    #4186be
+*color13:    #f56789
+*color14:    #71bebe
+*color15:    #43464f
 
 
-! acme color theme 
-! *background: #ffffea
-! *background: #fafafa
-! *foreground: #383a42
-! *color0:     #000000
-! *color1:     #ad4f4f
-! *color2:     #468747
-! *color3:     #8f7734
-! *color4:     #268bd2
-! *color5:     #888aca
-! *color6:     #6aa7a8
-! *color7:     #f3f3d3
-! *color8:     #878781
-! *color9:     #ffdddd
-! *color10:    #ebffeb
-! *color11:    #edeea5
-! *color12:    #ebffff
-! *color13:    #96d197
-! *color14:    #a1eeed
-! *color15:    #ffffeb
-
-! Xclock Styling
-XClock*foreground: #111096
-XClock*background: #eafffe
+! Xclock ========================
+XClock*foreground: #f7f7f7
+XClock*background: #2d332f
 XClock*update: 60
 XClock*geometry:          240x240+1340+100
-XClock.Clock.majorColor:  #111096
-XClock.Clock.minorColor:  #eafffe
-XClock.Clock.hourColor:   #252525
-XClock.Clock.minuteColor: #111096
-XClock.Clock.secondColor: #252525
+XClock.Clock.majorColor:  #657a6d
+XClock.Clock.minorColor:  #2d332f
+XClock.Clock.hourColor:   #657a6d
+XClock.Clock.minuteColor: #a1c9a9
+XClock.Clock.secondColor: #65d332f

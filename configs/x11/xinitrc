@@ -1,8 +1,6 @@
 xset -b
 # Set Wallpaper 
-#xsetroot -solid "#79aa92"
-xsetroot -solid "#385947" 
-#xsetroot -solid "#a5a5a5"
+xsetroot -solid "#777777"
 
 # Activate .Xresources
 xrdb -merge ~/.Xresources
