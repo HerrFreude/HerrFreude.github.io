@@ -10,5 +10,4 @@ set incsearch
 set mouse=a
 set noruler
 set laststatus=0
-highlight LineNr ctermfg=254 
-
+highlight LineNr ctermfg=15
