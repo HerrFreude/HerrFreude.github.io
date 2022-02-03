@@ -10,11 +10,8 @@ alias vim='nvim -u ~/.vimrc'
 alias jailfox='firejail --private firefox -no-remote'
 
 # Nightschift mit redshift und xrandr
-alias nightmode='xrandr --output DVI-I-1 --brightness 0.6 ; redshift -O 3500'
-alias daymode='redshift -x ; --brightness 0.7'
-
-# Play GIF Animations with sxiv
-alias sxiv-gif='sxiv -a'
+alias nightmode='xrandr --output DVI-I-1 --brightness 0.4 ; redshift -O 3000'
+alias daymode='redshift -x ; xrandr --output DVI-I-1 --brightness 0.7'
 
 # Display insults and other comments about computer fuckery
 alias sucks='shuf -n 1 sucks'
