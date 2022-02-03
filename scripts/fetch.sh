@@ -1,5 +1,5 @@
 #!/bin/bash
-kaktus=$(tput setaf 114)
+kaktus=$(tput setaf 28)
 text=$(tput sgr0)
 flower=$(tput setaf 204)
 ntext=$(tput sgr0)
@@ -10,6 +10,10 @@ distro=$(lsb_release -sd)
 user=$(id -un)
 host=$(hostname)
 shell=$(echo $SHELL)
+
+mem () {
+free -m | awk 'NR==2{printf "%s/%s\n", $3,$2}'
+}
 
 # Help prints info and syntax info
 Help()
@@ -29,11 +33,11 @@ Take care, its a desert out there ${kaktus}🌵${ntext}."
 Normal () {
 clear
 printf '%s\n' "
- ${kaktus}     __ ${flower}\:/${kaktus}           ${kaktus}${user}${text}@${kaktus}${host}
-    \-  /  -/          ${kaktus}os	${text}${distro}${kaktus}
-  \/     \   \ .       ${kaktus}wm	${text}${wm}cwm${kaktus}
-   \  ${text}O . O${kaktus}  :/        ${kaktus}pkgs	${text}${packages}${kaktus}
-   \  /   .,  /         
+ ${kaktus}     __ ${flower}\:/${kaktus}       ${kaktus}${user}${text}@${kaktus}${host}
+    \-  /  -/      ${kaktus}os	${text}${distro}${kaktus}
+  \/     \   \ .   ${kaktus}wm	${text}${wm}cwm${kaktus}
+   \  ${text}O . O${kaktus}  :/    ${kaktus}pkgs	${text}${packages}${kaktus}
+   \  /   .,  /    ${kaktus}mem  ${text}$(mem)
 "     
 }
 
