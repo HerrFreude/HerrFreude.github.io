@@ -1,0 +1,25 @@
+# Newsboat config
+auto-reload no
+browser firefox
+player mpv
+max-downloads 70
+reload-threads 4
+refresh-on-startup yes
+show-keymap-hint no 
+#show-title-bar no
+
+# Macros
+macro y set browser "mpv %u" ; open-in-browser ; set browser "lynx %u"
+
+# Hide articles matching:
+ignore-article "*" "title =~ \"Sponsor\""
+ignore-article "*" "title =~ \"Advertisement\""
+ignore-mode "download"
+
+# Formating and colors
+color info color28 default bold
+color listfocus color28 default
+color listfocus_unread color108 default bold
+color listnormal_unread color15 default bold
+color listnormal color15 default
+highlight feedlist "---.*---" color28 default
